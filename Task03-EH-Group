@@ -1,3 +1,6 @@
 Task detail:
 
 #1. Containerize Python application and Upload to ECR.
+a. Python Container
+b. Nginx Container
+c. Postgresql setup manual (Not in docker) and DB create.
